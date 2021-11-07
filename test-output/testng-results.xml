@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Skip button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Allow button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Sign in  button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Phone number entered]]>
+    </line>
+    <line>
+      <![CDATA[Pin   entered]]>
+    </line>
+    <line>
+      <![CDATA[Sign in clicked]]>
+    </line>
+    <line>
+      <![CDATA[Not right now is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Skip button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Allow button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Sign in  button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Phone number entered]]>
+    </line>
+    <line>
+      <![CDATA[Pin   entered]]>
+    </line>
+    <line>
+      <![CDATA[Sign in clicked]]>
+    </line>
+    <line>
+      <![CDATA[Not right now is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Buy Airtime button  is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Phone Number entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Amount  entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Mobile network is selected]]>
+    </line>
+    <line>
+      <![CDATA[Next button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Visa Card Option is selected]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Payment button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Secure Payment button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Pin 1 is entered ]]>
+    </line>
+    <line>
+      <![CDATA[Pin 2 is entered ]]>
+    </line>
+    <line>
+      <![CDATA[Pin 3 is entered ]]>
+    </line>
+    <line>
+      <![CDATA[Pin 4 is entered ]]>
+    </line>
+    <line>
+      <![CDATA[Skip button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Allow button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Sign in  button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Phone number entered]]>
+    </line>
+    <line>
+      <![CDATA[Pin   entered]]>
+    </line>
+    <line>
+      <![CDATA[Sign in clicked]]>
+    </line>
+    <line>
+      <![CDATA[Not right now is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Fund Wallet button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Add Money With Card button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Continue button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[5000 is entered]]>
+    </line>
+    <line>
+      <![CDATA[Proceed Button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Visa  Button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Payment  button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Secure Pay button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Pin 1 is entered ]]>
+    </line>
+    <line>
+      <![CDATA[Pin 2 is entered ]]>
+    </line>
+    <line>
+      <![CDATA[Pin 3 is entered ]]>
+    </line>
+    <line>
+      <![CDATA[Pin 4 is entered ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-11-07T02:57:27 WAT" name="Suite" finished-at="2021-11-07T03:01:18 WAT" duration-ms="230877">
+    <groups>
+    </groups>
+    <test started-at="2021-11-07T02:57:27 WAT" name="Test" finished-at="2021-11-07T03:01:18 WAT" duration-ms="230877">
+      <class name="testCases.Login">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.Login@683dbc2c]" started-at="2021-11-07T02:57:27 WAT" name="setUp" finished-at="2021-11-07T02:57:44 WAT" duration-ms="16978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:0, instance:testCases.Login@683dbc2c]" started-at="2021-11-07T02:57:44 WAT" name="login" finished-at="2021-11-07T02:58:25 WAT" duration-ms="40197" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Skip button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Allow button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Sign in  button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Phone number entered]]>
+            </line>
+            <line>
+              <![CDATA[Pin   entered]]>
+            </line>
+            <line>
+              <![CDATA[Sign in clicked]]>
+            </line>
+            <line>
+              <![CDATA[Not right now is clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="endSession()[pri:0, instance:testCases.Login@683dbc2c]" started-at="2021-11-07T02:58:25 WAT" name="endSession" finished-at="2021-11-07T02:58:26 WAT" duration-ms="1315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSession -->
+      </class> <!-- testCases.Login -->
+      <class name="testCases.PurchaseAirtime">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.PurchaseAirtime@68267da0]" started-at="2021-11-07T02:58:26 WAT" name="setUp" finished-at="2021-11-07T02:58:43 WAT" duration-ms="17181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="buyAirtime()[pri:0, instance:testCases.PurchaseAirtime@68267da0]" started-at="2021-11-07T02:58:43 WAT" name="buyAirtime" finished-at="2021-11-07T03:00:00 WAT" duration-ms="76844" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Skip button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Allow button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Sign in  button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Phone number entered]]>
+            </line>
+            <line>
+              <![CDATA[Pin   entered]]>
+            </line>
+            <line>
+              <![CDATA[Sign in clicked]]>
+            </line>
+            <line>
+              <![CDATA[Not right now is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Buy Airtime button  is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Phone Number entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Amount  entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Mobile network is selected]]>
+            </line>
+            <line>
+              <![CDATA[Next button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Visa Card Option is selected]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Payment button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Secure Payment button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Pin 1 is entered ]]>
+            </line>
+            <line>
+              <![CDATA[Pin 2 is entered ]]>
+            </line>
+            <line>
+              <![CDATA[Pin 3 is entered ]]>
+            </line>
+            <line>
+              <![CDATA[Pin 4 is entered ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- buyAirtime -->
+        <test-method is-config="true" signature="endSession()[pri:0, instance:testCases.PurchaseAirtime@68267da0]" started-at="2021-11-07T03:00:00 WAT" name="endSession" finished-at="2021-11-07T03:00:01 WAT" duration-ms="1140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSession -->
+      </class> <!-- testCases.PurchaseAirtime -->
+      <class name="testCases.FundWallet">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.FundWallet@2638011]" started-at="2021-11-07T03:00:01 WAT" name="setUp" finished-at="2021-11-07T03:00:19 WAT" duration-ms="18199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fundWallet()[pri:0, instance:testCases.FundWallet@2638011]" started-at="2021-11-07T03:00:19 WAT" name="fundWallet" finished-at="2021-11-07T03:01:17 WAT" duration-ms="57848" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Skip button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Allow button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Sign in  button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Phone number entered]]>
+            </line>
+            <line>
+              <![CDATA[Pin   entered]]>
+            </line>
+            <line>
+              <![CDATA[Sign in clicked]]>
+            </line>
+            <line>
+              <![CDATA[Not right now is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Fund Wallet button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Add Money With Card button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Continue button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[5000 is entered]]>
+            </line>
+            <line>
+              <![CDATA[Proceed Button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Visa  Button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Payment  button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Secure Pay button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Pin 1 is entered ]]>
+            </line>
+            <line>
+              <![CDATA[Pin 2 is entered ]]>
+            </line>
+            <line>
+              <![CDATA[Pin 3 is entered ]]>
+            </line>
+            <line>
+              <![CDATA[Pin 4 is entered ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fundWallet -->
+        <test-method is-config="true" signature="endSession()[pri:0, instance:testCases.FundWallet@2638011]" started-at="2021-11-07T03:01:17 WAT" name="endSession" finished-at="2021-11-07T03:01:18 WAT" duration-ms="1109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSession -->
+      </class> <!-- testCases.FundWallet -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
