@@ -17,7 +17,7 @@ To run the test,
 5. Ensure TestNG is available on your IDE
 6. Right click a test class, then run as testNG test
 
-NOTE. You would need to have logged into the app manually, before yuo would strt runnin the script. Also with steps above, i already assume the environment set up has been done for a devie to run a mobile automated test
+NOTE. You would need to have logged into the app manually, before yuo would start running the script. Also, with the steps above, i already assume the environment et up has been done for a device to run a mobile automated test
 
 
 
